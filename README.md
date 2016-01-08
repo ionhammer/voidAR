@@ -1,6 +1,6 @@
 ﻿# voidAR
 
-注意：使用 voidar-v0.0.5.unitypackage, 请首先参考《太虚 alpha-0.0.5 Change Log.doc》。
+注意：使用 voidar-v0.0.6.unitypackage, 请首先参考《太虚 alpha-0.0.6 Change Log.doc》。
 
 帮助文档 https://ionhammer.gitbooks.io/voidar/content/
 
